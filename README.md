@@ -1,4 +1,16 @@
-# Hi there 👋 I’m **Stiimy**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=AF07F7&width=435&lines=However+ruined+this+world+has+become..." />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/linuxdotexe/nordic-wallpapers/blob/master/wallpapers/ign_chainsaw-man.png?raw=true" alt="Chainsaw Man Wallpaper" />
+</p>
+
+---
+
+# Hello there <img src="https://private-user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE2ODgwMjYsIm5iZiI6MTc2MTY4NzcyNiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDItNDA2ZWIzZTYtY2FiYS00MDFkLTkzYzgtZTBhNzk0MWM4NGI5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI4VDIxNDIwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTczZGQ0MzE3ZTBjMDI2OGE2OGM2ZjhiNzc3NjE4N2VmMGZiOGYxOWM5YjI4ZjdlZWU3NTg0OTlkYjQ3OTk4NWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ibV4TJJheaaQGZGUv8J94v8dIH7FMPTwC1lOcqrimjY" width="50">
 
 💻 Dev by day, Summoner by night.  
 ⚔️ Always grinding for brain cells.  
@@ -33,6 +45,10 @@
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) 
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) 
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+</p>
 
 ---
 
