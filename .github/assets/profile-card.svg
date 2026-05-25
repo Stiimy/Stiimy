@@ -5,7 +5,7 @@
       <stop offset="60%" style="stop-color:#181825"/>
       <stop offset="100%" style="stop-color:#11111b"/>
     </linearGradient>
-    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="topBorder" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#89b4fa"/>
       <stop offset="50%" style="stop-color:#cba6f7"/>
       <stop offset="100%" style="stop-color:#f38ba8"/>
@@ -24,10 +24,11 @@
   <rect width="800" height="210" rx="16" fill="url(#bg)" stroke="#313244" stroke-width="1"/>
 
   <!-- Top border gradient -->
-  <rect x="0" y="0" width="800" height="3" rx="1.5" fill="url(#border)"/>
+  <rect x="0" y="0" width="800" height="3" rx="1.5" fill="url(#topBorder)"/>
 
-  <!-- Ambient glow top-right -->
-  <circle cx="700" cy="-20" r="120" fill="rgba(137,180,250,0.06)"/>
+  <!-- Ambient glow -->
+  <circle cx="700" cy="-20" r="120" fill="rgba(203,166,247,0.06)"/>
+  <circle cx="50" cy="190" r="100" fill="rgba(137,180,250,0.04)"/>
 
   <!-- PFP ring -->
   <circle cx="177" cy="105" r="38" fill="url(#pfpRing)"/>
@@ -36,23 +37,38 @@
   <image href="https://avatars.githubusercontent.com/u/114451424?v=4" x="142" y="70" width="70" height="70" clip-path="url(#pfpClip)" preserveAspectRatio="xMidYMid slice"/>
 
   <!-- Name -->
-  <text x="235" y="95" font-family="Segoe UI, sans-serif" font-size="38" font-weight="700" fill="#cdd6f4" letter-spacing="-1">Stiimy</text>
+  <text x="235" y="93" font-family="Segoe UI, sans-serif" font-size="38" font-weight="700" fill="#cdd6f4" letter-spacing="-1">Stiimy</text>
 
   <!-- Subtitle -->
-  <text x="235" y="120" font-family="Segoe UI, sans-serif" font-size="14" font-weight="500" fill="#89b4fa" letter-spacing="1.5" text-transform="uppercase">Arch · Hyprland · Cyber</text>
+  <text x="235" y="118" font-family="Segoe UI, sans-serif" font-size="14" font-weight="500" fill="#cba6f7" letter-spacing="1.5">Arch Linux · Hyprland · Cybersécurité</text>
 
-  <!-- Tags -->
+  <!-- Tags row 1 -->
   <g transform="translate(235, 140)">
-    <rect x="0" y="0" width="52" height="26" rx="13" fill="rgba(137,180,250,0.12)" stroke="#89b4fa" stroke-width="1"/>
-    <text x="26" y="17" font-family="Segoe UI, sans-serif" font-size="12" font-weight="700" fill="#89b4fa" text-anchor="middle" letter-spacing="0.8">ARCH</text>
+    <rect x="0" y="0" width="56" height="26" rx="13" fill="rgba(137,180,250,0.12)" stroke="#89b4fa" stroke-width="1"/>
+    <text x="28" y="17" font-family="Segoe UI, sans-serif" font-size="12" font-weight="700" fill="#89b4fa" text-anchor="middle" letter-spacing="0.8">ARCH</text>
 
-    <rect x="62" y="0" width="78" height="26" rx="13" fill="rgba(166,227,161,0.12)" stroke="#a6e3a1" stroke-width="1"/>
-    <text x="101" y="17" font-family="Segoe UI, sans-serif" font-size="12" font-weight="700" fill="#a6e3a1" text-anchor="middle" letter-spacing="0.8">HYPRLAND</text>
+    <rect x="66" y="0" width="88" height="26" rx="13" fill="rgba(166,227,161,0.12)" stroke="#a6e3a1" stroke-width="1"/>
+    <text x="110" y="17" font-family="Segoe UI, sans-serif" font-size="12" font-weight="700" fill="#a6e3a1" text-anchor="middle" letter-spacing="0.8">HYPRLAND</text>
 
-    <rect x="150" y="0" width="66" height="26" rx="13" fill="rgba(249,226,175,0.12)" stroke="#f9e2af" stroke-width="1"/>
-    <text x="183" y="17" font-family="Segoe UI, sans-serif" font-size="12" font-weight="700" fill="#f9e2af" text-anchor="middle" letter-spacing="0.8">PYTHON</text>
+    <rect x="164" y="0" width="72" height="26" rx="13" fill="rgba(249,226,175,0.12)" stroke="#f9e2af" stroke-width="1"/>
+    <text x="200" y="17" font-family="Segoe UI, sans-serif" font-size="12" font-weight="700" fill="#f9e2af" text-anchor="middle" letter-spacing="0.8">PYTHON</text>
 
-    <rect x="226" y="0" width="52" height="26" rx="13" fill="rgba(203,166,247,0.12)" stroke="#cba6f7" stroke-width="1"/>
-    <text x="252" y="17" font-family="Segoe UI, sans-serif" font-size="12" font-weight="700" fill="#cba6f7" text-anchor="middle" letter-spacing="0.8">BASH</text>
+    <rect x="246" y="0" width="50" height="26" rx="13" fill="rgba(203,166,247,0.12)" stroke="#cba6f7" stroke-width="1"/>
+    <text x="271" y="17" font-family="Segoe UI, sans-serif" font-size="12" font-weight="700" fill="#cba6f7" text-anchor="middle" letter-spacing="0.8">C++</text>
+  </g>
+
+  <!-- Tags row 2 -->
+  <g transform="translate(235, 174)">
+    <rect x="0" y="0" width="62" height="26" rx="13" fill="rgba(245,194,231,0.12)" stroke="#f5c2e7" stroke-width="1"/>
+    <text x="31" y="17" font-family="Segoe UI, sans-serif" font-size="12" font-weight="700" fill="#f5c2e7" text-anchor="middle" letter-spacing="0.8">DOCKER</text>
+
+    <rect x="72" y="0" width="72" height="26" rx="13" fill="rgba(243,139,168,0.12)" stroke="#f38ba8" stroke-width="1"/>
+    <text x="108" y="17" font-family="Segoe UI, sans-serif" font-size="12" font-weight="700" fill="#f38ba8" text-anchor="middle" letter-spacing="0.8">NGINX</text>
+
+    <rect x="154" y="0" width="56" height="26" rx="13" fill="rgba(148,226,213,0.12)" stroke="#94e2d5" stroke-width="1"/>
+    <text x="182" y="17" font-family="Segoe UI, sans-serif" font-size="12" font-weight="700" fill="#94e2d5" text-anchor="middle" letter-spacing="0.8">LINUX</text>
+
+    <rect x="220" y="0" width="54" height="26" rx="13" fill="rgba(250,179,135,0.12)" stroke="#fab387" stroke-width="1"/>
+    <text x="247" y="17" font-family="Segoe UI, sans-serif" font-size="12" font-weight="700" fill="#fab387" text-anchor="middle" letter-spacing="0.8">GIT</text>
   </g>
 </svg>
