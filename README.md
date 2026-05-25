@@ -37,16 +37,6 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 🎮 Gaming
-
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
-![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white)
-![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 </p>
@@ -58,9 +48,9 @@
   <a href="https://github.com/Stiimy">
     <img src="https://ghstats.dev/api/card?username=Stiimy&amp;theme=catppuccin&amp;hide=trend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers&amp;custom_title=Stats&amp;border_radius=10" alt="GitHub Stats" />
   </a>
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Stiimy&amp;theme=dark&amp;hide_border=false" alt="GitHub Streak" />
 </div>
-<br/>
-![Stiimy's GitHub streak](https://nirzak-streak-stats.vercel.app/?user=Stiimy&theme=dark&hide_border=false)
 
 ---
 
