@@ -2,12 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=AF07F7&width=435&lines=However+ruined+this+world+has+become..." />
 </p>
 
----
 
-<!-- PROFILE CARD -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Stiimy/Stiimy/main/.github/assets/profile-card.svg" alt="Stiimy" width="800" />
-</div>
+
+
 
 ---
 
@@ -24,6 +21,10 @@
 🚀 Here you'll find my builds: projects, experiments, and some shitty stuffs.
 
 ---
+<!-- PROFILE CARD -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Stiimy/Stiimy/main/.github/assets/profile-card.svg" alt="Stiimy" width="800" />
+</div>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
