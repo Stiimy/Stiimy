@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=AF07F7&width=435&lines=However+ruined+this+world+has+become..." />
 </p>
 
-
-
-
-
 ---
 
 <p align="center">
@@ -21,10 +17,35 @@
 🚀 Here you'll find my builds: projects, experiments, and some shitty stuffs.
 
 ---
-<!-- PROFILE CARD -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Stiimy/Stiimy/main/.github/assets/profile-card.svg" alt="Stiimy" width="800" />
-</div>
+
+## 🧠 Tech Stack
+
+![Arch](https://img.shields.io/badge/Arch-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-%2358E1FF.svg?style=for-the-badge&logo=hyprland&logoColor=black)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## 🎮 Gaming
+
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
+![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white)
+![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
@@ -40,11 +61,6 @@
 </div>
 <br/>
 ![Stiimy's GitHub streak](https://nirzak-streak-stats.vercel.app/?user=Stiimy&theme=dark&hide_border=false)
-
----
-
-## 🏆 Trophies
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Stiimy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
