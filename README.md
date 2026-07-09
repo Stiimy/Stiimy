@@ -12,7 +12,7 @@
 
 # Hello there <img src="https://github.com/user-attachments/assets/b5bda1a0-2bc5-41b1-a452-16abd2ecc902" width="50" alt="goojoo">
 
-💻 Dev by day, Summoner by night.  
+💻 Lazy ass dev by day, Summoner by night.  
 ⚔️ Always grinding for brain cells.  
 🚀 Here you'll find my builds: projects, experiments, and some shitty stuffs.
 
